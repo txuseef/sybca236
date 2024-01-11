@@ -7,5 +7,8 @@ public class democlass236 {
 		System.out.println("Github Hello World");
 
 	}
+	void display() {
+		System.out.println("Branch Pull Request");
+	}
 
 }
